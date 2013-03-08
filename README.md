@@ -64,11 +64,6 @@ deferred.success(function(data) {
 bower install jquery.ajax.fake
 ```
 
-## Installing via Yeoman
-```
-yeoman install jquery.ajax.fake
-```
-
 ## Reference
 ```js
 fake    : false // is it fake ?
